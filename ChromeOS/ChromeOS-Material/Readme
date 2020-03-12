@@ -1,0 +1,23 @@
+How to set themes in SLiM Display Manager
+
+	- Install SLiM Display Manager. SLiM is in all repositories of the most used distros.
+
+	- Choose as your default Display Manager running the command: "sudo dpkg-reconfigure slim"
+
+	- Extract the downloaded package of Deepin Theme for SLiM
+
+       - Run the file manager of your distro as root to move the file, you can run the file manager with the command: "sudo nautilus", "sudo caja", etc.
+
+	- Move the  folder of Deepin theme to the directory "themes" on: "/user/share/slim/themes"
+
+	- Run "sudo gedit /etc/slim.conf"  on the terminal and press "ctrl + f" on the tex editor, type "current_theme", and change the name for "Deepin".
+           (**use the text editor of your preference in your distro**)
+
+	- To change Desktop Sessions just press "F1"
+
+	- If you can take a screenshot just press the key F11
+
+ -- Note: You can't use the cursor in SLiM Display Manager; so if you want to "shutdown or reboot", in the login screen, you need to type "halt" or "reboot" in the username box and then write the root password, and it's done, so the icons below the screen are just decoration to make more similar to the Deepin login screen.
+
+
+I hope you like it and enjoy it!!

@@ -1,0 +1,99 @@
+	-----------------------------------------------------------------
+
+# Tech Slim Theme 1.0
+
+# Created by: f.korpsvart
+
+
+	-----------------------------------------------------------------
+
+# Values for Messages - Color/Font/Posision(ie: shutting down)
+
+msg_color                	#00df00
+msg_font			     	San Francisco Display:size=15
+
+msg_x			     	45%
+msg_y			     	70
+
+msg_shadow_xoffset	     	1
+msg_shadow_yoffset	     	1
+msg_shadow_color	     	#00df00
+
+	-----------------------------------------------------------------
+
+# Values for Session List - Color/Font/Posision
+
+session_color				#00df00
+session_msg
+session_font				San Francisco Display:size=15
+
+session_x					50%
+session_y					5%
+
+session_shadow_xoffset		1
+session_shadow_yoffset		1
+session_shadow_color		#00df00
+
+	-----------------------------------------------------------------
+
+# Values for Style of Background: 'stretch', 'tile', 'center', 'color'
+
+background_style			stretch
+background_color			#FF0033
+
+	-----------------------------------------------------------------
+
+# Values for Input Panel - Posision/Font/Color/Shadow
+
+input_panel_x				50%
+input_panel_y				50%
+
+input_name_x				125
+input_name_y				310
+
+input_pass_x				125
+input_pass_y				365
+
+input_font				San Francisco Display:size=15
+input_color				#00df00
+
+input_shadow_xoffset		1
+input_shadow_yoffset		1
+input_shadow_color			#00df00
+
+	-----------------------------------------------------------------
+
+# Values for Welcome Message - Posision/Font/Color/Shadow
+
+welcome_x				60%
+welcome_y				25
+
+welcome_font				San Francisco Display:size=15
+welcome_msg				Welcome to the Machine
+welcome_color				#00df00
+
+welcome_shadow_xoffset		1
+welcome_shadow_yoffset		1
+welcome_shadow_color		#00df00
+
+	-----------------------------------------------------------------
+
+# Values for Username/Password - Font/Color/Shadow/Posision/Labels
+
+username_font				San Francisco Display:size=15
+username_color				#00df00
+
+username_x				23
+username_y				280
+
+password_x				255
+password_y				390
+
+username_msg				Username
+password_msg				Password
+
+username_shadow_xoffset		1
+username_shadow_yoffset		1
+username_shadow_color		#00df00
+
+	-----------------------------------------------------------------

@@ -1,0 +1,96 @@
+#read me here
+	-----------------------------------------------------------------
+
+# Programming Theme for SliM Display Manager 1.0
+#Created by: f.korpsvart
+
+
+	-----------------------------------------------------------------
+
+# Values for Messages - Color/Font/Posision/Shadow (ie: shutting down)
+
+msg_color							#FFFFFF
+msg_font							San Francisco Display:size=20
+msg_x							50%
+msg_y							50%
+
+msg_shadow_xoffset					1
+msg_shadow_yoffset					1
+msg_shadow_color					#7A7979
+
+	-----------------------------------------------------------------
+
+#Values for Session List - Color/Font/Posision/Shadow
+
+session_color						#FFFFFF
+session_msg
+session_font						San Francisco Display:size=20
+session_x							50%
+session_y							10%
+
+session_shadow_xoffset				1
+session_shadow_yoffset				1
+session_shadow_color				#7A7979
+
+	-----------------------------------------------------------------
+
+# Values for Style of Background: 'stretch', 'tile', 'center', 'color'
+
+background_style					stretch
+background_color					#FF0033
+
+	-----------------------------------------------------------------
+
+# Values for Input Panel - Posision/Font/Color/Shadow
+
+input_panel_x						50%
+input_panel_y						50%
+
+input_name_x						250
+input_name_y						395
+input_pass_x						250
+input_pass_y						395
+
+input_font						San Francisco Display:size=15
+input_color						#ffffff
+
+input_shadow_xoffset				1
+input_shadow_yoffset				1
+input_shadow_color				#ffffff
+
+
+	-----------------------------------------------------------------
+
+# Values for Welcome Message - Posision/Font/Color/Shadow
+
+#welcome_x						50%
+#welcome_y						15
+
+welcome_font						San Francisco Display:size=15:Bold
+welcome_msg						Welcome
+welcome_color								#ffffff
+
+welcome_shadow_xoffset				1
+welcome_shadow_yoffset				1
+welcome_shadow_color				#7A7979
+
+	-----------------------------------------------------------------
+
+# Values for Username/Password - Font/Color/Shadow/Posision/Labels
+
+username_font						San Francisco Display:size=14:Bold
+username_color						#ffffff
+
+username_shadow_xoffset				1
+username_shadow_yoffset				1
+username_shadow_color				#aaaaaa
+
+username_x						150
+username_y						395
+password_x						150
+password_y						395
+
+username_msg						Username
+password_msg						Password
+
+	-----------------------------------------------------------------
